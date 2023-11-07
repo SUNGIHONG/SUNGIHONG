@@ -1,5 +1,5 @@
 ### Hi there 👋
-오 되네 뭐야~~~~
+와 진짜 공부하기 개싫음
 <!--
 **SUNGIHONG/SUNGIHONG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
