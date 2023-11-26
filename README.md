@@ -1,5 +1,7 @@
 ### Hi there 👋
-와 진짜 공부하기 개싫음
+I'm a master's student in Industrial Engineering at UIUC.
+
+Happy Holidays!
 <!--
 **SUNGIHONG/SUNGIHONG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
